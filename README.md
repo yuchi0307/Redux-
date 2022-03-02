@@ -1,3 +1,14 @@
+<h2>Redux使用</h2>
+
+![下載](https://user-images.githubusercontent.com/67968321/156372576-8dcfa895-8be8-4bea-b2be-7f9f08f9cbd2.png)
+
+<ol>
+<li> npm init -y </li> 
+<li> npm install redux </li> 
+<li> 執行js：node 檔名 </li>
+</ol>
+
+
 ```
 const redux = require('redux');
 
