@@ -5,6 +5,7 @@
 <ol>
 <li> npm init -y </li> 
 <li> npm install redux </li> 
+<li> npm install redux-react </li> redux可於任意js中執行，在react中想使用就必須執行這段指令
 <li> 執行js：node 檔名 </li>
 </ol>
 
